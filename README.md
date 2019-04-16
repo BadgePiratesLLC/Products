@@ -13,7 +13,7 @@ If you have never soldered before, [this](https://www.makerspaces.com/how-to-sol
 ## Curated Soldering Kits
 
  - Kit 100 -  Sound Control Flashing LED Music Colorful Light
- - Kit 101 - Micro Digital Recording and Playback Voice IC Chip
+ - Kit 101 - [Micro Digital Recording and Playback Voice IC Chip](https://github.com/BadgePiratesLLC/Products/kit101.md)
  - Kit 102 - 16 Sound Box
  - Kit 103 - Water Flowing Light LED Module
  - Kit 104 - SMD Component Welding Practice Board
@@ -33,5 +33,5 @@ If you have never soldered before, [this](https://www.makerspaces.com/how-to-sol
  - Kit 119 - Blue LED Electronic Hourglass 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzc3NDA3OV19
+eyJoaXN0b3J5IjpbODMyNjUzNDQ1LC02MDc3NzQwNzldfQ==
 -->
