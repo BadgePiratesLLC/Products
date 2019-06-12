@@ -1,6 +1,6 @@
 ## Single PCB LED Hourglass (no sensor)
 
-###Kit 123
+######Kit 123
 
 This kit is an LED Hourglass that uses an IC to display a pattern on
 the LEDs.  When soldering any kit, it is generally a good idea to start
