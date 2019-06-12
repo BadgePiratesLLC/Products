@@ -1,6 +1,6 @@
 ## Single PCB LED Hourglass (no sensor)
 
-######Kit 123
+### Kit 123
 
 This kit is an LED Hourglass that uses an IC to display a pattern on
 the LEDs.  When soldering any kit, it is generally a good idea to start
@@ -19,7 +19,7 @@ Images from product page(linked):
 
 Steps:
 
-1. Install and solder LED's careful to note the Anode (+) and Cathod (-)
+1. Install and solder LED's careful to note the Anode (+) and Cathode (-)
 2. Install and solder push button
 3. Install and solder slide switch
 4. Install and solder IC socket.  Pins may need to be bent back into shape to
